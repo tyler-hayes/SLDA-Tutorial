@@ -1,5 +1,8 @@
 Deep Streaming Linear Discriminant Analysis: A Tutorial
 =====================================
+:warning::warning: | This code uses a data loader from an older version of Avalanche that may no longer be supported.
+:---: | :---
+
 This is a PyTorch tutorial on how to use the Deep Streaming Linear Discriminant Analysis (SLDA) algorithm from our CVPRW-2020 [paper](https://arxiv.org/abs/1909.01520).
 This repo uses the original scenario definitions for the [CORe50 dataset](https://vlomonaco.github.io/core50/), which differ from the CORe50 experiments in our paper.
 To replicate our ImageNet experiments, please see [this repo](https://github.com/tyler-hayes/Deep_SLDA).
